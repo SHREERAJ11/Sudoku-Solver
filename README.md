@@ -100,6 +100,10 @@ Solved Sudoku grid:
 3 4 5 2 8 6 1 7 9
 
 
+<h5> Compiler Output : </h5>
+
+![alt text](sudokucompileroutput.png)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
